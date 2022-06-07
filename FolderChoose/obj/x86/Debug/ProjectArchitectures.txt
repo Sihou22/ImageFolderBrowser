@@ -1,0 +1,1 @@
+E:\Win10\FolderChoose\FolderChoose\FolderChoose.csproj;x86
